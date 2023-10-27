@@ -8,4 +8,4 @@ Creado por:
 
 [Instrucciones](./instrucciones/Laboratorio10.pdf)
 
-[.ipynb - Codigo](./BusinessIntelligenceDashboards.ipynb)
+[POWERBI - Codigo](./lab10.pbix)
